@@ -1,0 +1,22 @@
+* {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd {
+    background-color: rgba(243, 9, 9, 0.8);
+}
+
+#id1 {
+    font-size: 36px;
+    color: blue;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#id4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
