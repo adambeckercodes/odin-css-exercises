@@ -1,0 +1,14 @@
+.el1 {
+    color: #fff;
+    background: #000;
+}
+
+.el2 {
+    background: #ffff00;
+}
+
+.el1,
+.el2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
